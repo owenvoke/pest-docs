@@ -66,4 +66,4 @@ Also, when you expect a changed value, you may need to run the `-d --update-snap
 ./vendor/bin/pest -d --update-snapshots
 ```
 
-Next section: [Changelog →](/docs/changelog)
+Next section: [Watch Plugin →](/docs/plugins/watch)

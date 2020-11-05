@@ -27,6 +27,7 @@
 	- [Faker](/docs/plugins/faker)
 	- [Global Assertions](/docs/plugins/global-assertions)
 	- [Snapshots](/docs/plugins/snapshots)
+	- [Watch](/docs/plugins/watch)
 - ## More
 	- [Changelog](/docs/changelog)
 	- [Upgrade Guide](/docs/upgrade-guide)
